@@ -1,6 +1,7 @@
 Apache Avro™<img align="right" height="160" src="doc/assets/icons/logo.svg" alt="Avro Logo"/>
 ============
 
+
 [![test c][test c img]][test c]
 [![test c#][test c# img]][test c#]
 [![test c++][test c++ img]][test c++]
